@@ -25,7 +25,7 @@ $f3->route('GET /',
 
 $f3->route('GET /personal',
     function() {
-        echo 'My name is Miti!';
+        echo 'My name is Miti!!';
     }
 );
 
