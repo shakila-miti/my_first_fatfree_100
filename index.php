@@ -19,7 +19,7 @@ $f3->config('config.ini');
 
 $f3->route('GET /',
     function() {
-        echo 'This is my root!!!';
+        echo 'This is my first project!!!';
     }
 );
 
